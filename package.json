@@ -91,7 +91,7 @@
     "nyc": "^14.0.0",
     "opn-cli": "^3.1.0",
     "prettier": "^1.14.3",
-    "proxyquire": "^2.1.0",
+    "proxyquire": "2.1.1",
     "sinon": "^7.2.2",
     "standard-version": "^7.0.0",
     "trash-cli": "^3.0.0",
