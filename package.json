@@ -82,7 +82,7 @@
     "@types/rimraf": "^2.0.2",
     "@types/sinon": "^7.0.0",
     "ava": "^1.4.1",
-    "codecov": "^3.1.0",
+    "codecov": "^3.6.1",
     "cz-conventional-changelog": "^3.0.0",
     "gh-pages": "^2.0.0",
     "jscpd-badge-reporter": "^1.1.3",
