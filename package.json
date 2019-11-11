@@ -70,7 +70,7 @@
     "rimraf": "^3.0.0"
   },
   "devDependencies": {
-    "@types/bytes": "^3.0.0",
+    "@types/bytes": "3.0.0",
     "@types/colors": "^1.2.1",
     "@types/eventemitter3": "^2.0.2",
     "@types/fs-extra": "^8.0.0",
